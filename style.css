@@ -3,3 +3,12 @@
     margin: 0;
     padding: 0;
 }
+html {
+    background-color: white;
+    color: #1F171C;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 133.9%;
+}
